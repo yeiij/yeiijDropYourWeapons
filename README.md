@@ -13,11 +13,11 @@ iex: @life_server\addons\yeiijDropYourWeapons.pbo
 ```
 
 <br>
-3 - Add the next call somewhere in the mission/client side:
+3 - Add the next call in your mission in initPlayerLocal.sqf and onPlayerRspawn.sqf(you can add this only on one of these if you know what you are doing):
 
 ```SQF
-[] spawn YEIIJ_fnc_DropYourWeaponsSearchForWeapons;
+[] spawn YEIIJ_fnc_DropYourWeaponsAddAction;
 ```
 
 ## How i do edit this?
-the addon contains a file named [config.sqf](https://github.com/yeiij/yeiijDropYourWeapons/blob/master/config/config.sqf) inside the folder config
+there are nothing to configure
