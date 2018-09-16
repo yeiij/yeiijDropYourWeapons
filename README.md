@@ -2,7 +2,7 @@
 Standalone Addon for Arma 3
 
 ## What this does?
-The addon force the target to drop weapons into a box
+The addon force the target to drop weapons into a box (only for WEST/Blufor)
 
 ## How i do install this?
 1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijDropYourWeapons/releases)
