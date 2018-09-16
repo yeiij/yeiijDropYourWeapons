@@ -13,7 +13,7 @@ iex: @life_server\addons\yeiijDropYourWeapons.pbo
 ```
 
 <br>
-3 - Add the next call in your mission in initPlayerLocal.sqf and onPlayerRspawn.sqf(you can add this only on one of these if you know what you are doing):
+3 - Add the next call in your mission in initPlayerLocal.sqf and onPlayerRspawn.sqf:
 
 ```SQF
 [] spawn YEIIJ_fnc_DropYourWeaponsAddAction;
