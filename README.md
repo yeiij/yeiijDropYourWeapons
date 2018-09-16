@@ -7,9 +7,10 @@ The addon force the target to drop weapons into a box (only for WEST/Blufor)
 ## How i do install this?
 1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijDropYourWeapons/releases)
 <br>
-2 - Put the PBO file inside @life_server\addons
+2 - Put the PBO file inside @Yeiij\addons
 ```
-iex: @life_server\addons\yeiijDropYourWeapons.pbo
+iex: @Yeiij\addons\yeiijDropYourWeapons.pbo
+remember load the mod on server start at -serverMods
 ```
 
 <br>
