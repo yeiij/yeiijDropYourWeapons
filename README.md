@@ -22,3 +22,6 @@ remember load the mod on server start at -serverMods
 
 ## How i do edit this?
 there are nothing to configure
+
+## Do you want to thank for my work?
+https://paypal.me/yeiij
